@@ -32,6 +32,6 @@
 
 <hr>
 
-[linkedin]: linkedin.com/in/amit-kumar-pandit-48515bb6
+[linkedin]: https:://linkedin.com/in/amit-kumar-pandit-48515bb6
 
 
